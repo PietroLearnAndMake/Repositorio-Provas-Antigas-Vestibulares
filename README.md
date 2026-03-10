@@ -1,6 +1,6 @@
 # Repositório Provas Antigas Vestibulares
 
-Este repositório contém uma coleção organizada de provas antigas de diversos vestibulares (Estaduais, Federais e Privadas), estruturadas para facilitar o acesso via API.
+Este repositório contém uma coleção organizada de provas antigas de diversos vestibulares (Estaduais, Federais e Privadas), e também, arquivos que pessoas me mandaram pra fazer essa api acontecer, as coisas estão estruturadas para facilitar o acesso via API.
 
 ## Estrutura do Repositório
 
@@ -36,4 +36,4 @@ Você pode consumir os dados diretamente do arquivo `api_vestibulares.json`. Cad
 Sinta-se à vontade para abrir Pull Requests para adicionar novas provas ou corrigir informações.
 
 ---
-*Este repositório foi gerado automaticamente para fins educacionais.*
+*Este repositório foi gerado automaticamente via ia coding, para fins educacionais.*
