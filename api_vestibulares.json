@@ -1,6 +1,6 @@
 {
   "nome": "Repositório Provas Antigas Vestibulares",
-  "descricao": "API de questões de provas antigas de vestibulares organizadas por categoria, instituição e ano.",
+  "descricao": "API de questões de provas antigas de vestibulares organizadas por categoria, instituição e ano, além de questões sugeridas por assunto.",
   "categorias": {
     "Estadual": {
       "FAMEMA": {
@@ -1336,602 +1336,6 @@
         ]
       }
     },
-    "Privada": {
-      "IDOMED": {
-        "2021.2": [
-          {
-            "nome_arquivo": "IDOMED 2021.2.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2021.2/IDOMED 2021.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2024.2": [
-          {
-            "nome_arquivo": "IDOMED 2024.2 - Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2024.2/IDOMED 2024.2 - Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "IDOMED 2024.2.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2024.2/IDOMED 2024.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2023.1": [
-          {
-            "nome_arquivo": "IDOMED 2023.1 - Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2023.1/IDOMED 2023.1 - Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "IDOMED 2023.1.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2023.1/IDOMED 2023.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2024.1": [
-          {
-            "nome_arquivo": "IDOMED 2024.1 - Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2024.1/IDOMED 2024.1 - Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "IDOMED 2024.1.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2024.1/IDOMED 2024.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2020.2": [
-          {
-            "nome_arquivo": "IDOMED 2020.2.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2020.2/IDOMED 2020.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2023.2 (Vest)": [
-          {
-            "nome_arquivo": "IDOMED 2023.2 (Vest) - Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2023.2 (Vest)/IDOMED 2023.2 (Vest) - Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "IDOMED 2023.2 (Vest).pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2023.2 (Vest)/IDOMED 2023.2 (Vest).pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2022.2": [
-          {
-            "nome_arquivo": "IDOMED 2022.2.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2022.2/IDOMED 2022.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2023.2 (Rio e Famejipa)": [
-          {
-            "nome_arquivo": "IDOMED 2023.2 (Rio e Famejipa).pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2023.2 (Rio e Famejipa)/IDOMED 2023.2 (Rio e Famejipa).pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2022.1": [
-          {
-            "nome_arquivo": "IDOMED 2022.1.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2022.1/IDOMED 2022.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2021.1": [
-          {
-            "nome_arquivo": "IDOMED 2021.1.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2021.1/IDOMED 2021.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2024.2 (2º Edital)": [
-          {
-            "nome_arquivo": "IDOMED 2024.2 (2º Edital) - Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2024.2 (2º Edital)/IDOMED 2024.2 (2º Edital) - Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "IDOMED 2024.2 (2º Edital).pdf",
-            "caminho_relativo": "provas/Privada/IDOMED/2024.2 (2º Edital)/IDOMED 2024.2 (2º Edital).pdf",
-            "tipo": "prova_completa"
-          }
-        ]
-      },
-      "ACAFE": {
-        "2007 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2007 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2007 Verão/ACAFE 2007 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2013 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2013 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2013 Verão/ACAFE 2013 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2013 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2013 Verão/ACAFE 2013 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2012 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2012 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2012 Verão/ACAFE 2012 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2012 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2012 Verão/ACAFE 2012 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2011 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2011 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2011 Inverno/ACAFE 2011 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2007 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2007 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2007 Inverno/ACAFE 2007 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2014 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2014 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2014 Verão/ACAFE 2014 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2014 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2014 Verão/ACAFE 2014 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2014 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2014 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2014 Inverno/ACAFE 2014 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2012 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2012 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2012 Inverno/ACAFE 2012 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2012 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2012 Inverno/ACAFE 2012 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2009 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2009 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2009 Inverno/ACAFE 2009 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2017 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2017 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2017 Verão/ACAFE 2017 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2017 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2017 Verão/ACAFE 2017 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2015 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2015 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2015 Verão/ACAFE 2015 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2018 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2018 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2018 Verão/ACAFE 2018 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2018 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2018 Verão/ACAFE 2018 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2019 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2019 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2019 Inverno/ACAFE 2019 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2019 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2019 Inverno/ACAFE 2019 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2016 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2016 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2016 Inverno/ACAFE 2016 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2016 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2016 Inverno/ACAFE 2016 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2016 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2016 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2016 Verão/ACAFE 2016 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2016 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2016 Verão/ACAFE 2016 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2017 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2017 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2017 Inverno/ACAFE 2017 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2017 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2017 Inverno/ACAFE 2017 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2019 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2019 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2019 Verão/ACAFE 2019 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2019 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2019 Verão/ACAFE 2019 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2015 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2015 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2015 Inverno/ACAFE 2015 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2015 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2015 Inverno/ACAFE 2015 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2018 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2018 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2018 Inverno/ACAFE 2018 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2018 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2018 Inverno/ACAFE 2018 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2022 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2022 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2022 Verão/ACAFE 2022 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2022 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2022 Verão/ACAFE 2022 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2024 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2024 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2024 Verão/ACAFE 2024 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2024 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2024 Verão/ACAFE 2024 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2021 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2021 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2021 Inverno/ACAFE 2021 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2021 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2021 Inverno/ACAFE 2021 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2025 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2025 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2025 Verão/ACAFE 2025 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2025 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2025 Verão/ACAFE 2025 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2020 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2020 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2020 Verão/ACAFE 2020 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2020 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2020 Verão/ACAFE 2020 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2022 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2022 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2022 Inverno/ACAFE 2022 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2022 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2022 Inverno/ACAFE 2022 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2021 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2021 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2021 Verão/ACAFE 2021 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2021 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2021 Verão/ACAFE 2021 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2023 Verão": [
-          {
-            "nome_arquivo": "ACAFE 2023 Medicina Verão Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2023 Verão/ACAFE 2023 Medicina Verão Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2023 Medicina Verão.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2023 Verão/ACAFE 2023 Medicina Verão.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2023 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2023 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2023 Inverno/ACAFE 2023 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2023 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2023 Inverno/ACAFE 2023 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2024 Inverno": [
-          {
-            "nome_arquivo": "ACAFE 2024 Medicina Inverno Gabarito.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2024 Inverno/ACAFE 2024 Medicina Inverno Gabarito.pdf",
-            "tipo": "prova_completa"
-          },
-          {
-            "nome_arquivo": "ACAFE 2024 Medicina Inverno.pdf",
-            "caminho_relativo": "provas/Privada/ACAFE/2024 Inverno/ACAFE 2024 Medicina Inverno.pdf",
-            "tipo": "prova_completa"
-          }
-        ]
-      },
-      "Univassouras": {
-        "2016.1": [
-          {
-            "nome_arquivo": "Univassouras 2016.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2016.1/Univassouras 2016.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2015.2": [
-          {
-            "nome_arquivo": "Univassouras 2015.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2015.2/Univassouras 2015.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2014.1": [
-          {
-            "nome_arquivo": "Univassouras 2014.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2014.1/Univassouras 2014.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2014.2": [
-          {
-            "nome_arquivo": "Univassouras 2014.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2014.2/Univassouras 2014.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2013.2": [
-          {
-            "nome_arquivo": "Univassouras 2013.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2013.2/Univassouras 2013.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2016.2": [
-          {
-            "nome_arquivo": "Univassouras 2016.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2016.2/Univassouras 2016.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2012.2": [
-          {
-            "nome_arquivo": "Univassouras 2012.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2012.2/Univassouras 2012.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2017.1": [
-          {
-            "nome_arquivo": "Univassouras 2017.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2017.1/Univassouras 2017.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2015.1": [
-          {
-            "nome_arquivo": "Univassouras 2015.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2015.1/Univassouras 2015.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2018.2": [
-          {
-            "nome_arquivo": "Univassouras 2018.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2018.2/Univassouras 2018.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2021.1": [
-          {
-            "nome_arquivo": "Univassouras 2021.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2021.1/Univassouras 2021.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2018.1": [
-          {
-            "nome_arquivo": "Univassouras 2018.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2018.1/Univassouras 2018.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2019.1": [
-          {
-            "nome_arquivo": "Univassouras 2019.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2019.1/Univassouras 2019.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2022.1": [
-          {
-            "nome_arquivo": "Univassouras 2022.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2022.1/Univassouras 2022.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2020.2": [
-          {
-            "nome_arquivo": "Univassouras 2020.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2020.2/Univassouras 2020.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2021.2": [
-          {
-            "nome_arquivo": "Univassouras 2021.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2021.2/Univassouras 2021.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2017.2": [
-          {
-            "nome_arquivo": "Univassouras 2017.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2017.2/Univassouras 2017.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2019.2 2º Edital": [
-          {
-            "nome_arquivo": "Univassouras 2019.2 2º Edital.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2019.2 2º Edital/Univassouras 2019.2 2º Edital.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2019.2 1º Edital": [
-          {
-            "nome_arquivo": "Univassouras 2019.2 1º Edital.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2019.2 1º Edital/Univassouras 2019.2 1º Edital.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2024.1": [
-          {
-            "nome_arquivo": "Univassouras 2024.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2024.1/Univassouras 2024.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2023.1": [
-          {
-            "nome_arquivo": "Univassouras 2023.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2023.1/Univassouras 2023.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2022.2": [
-          {
-            "nome_arquivo": "Univassouras 2022.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2022.2/Univassouras 2022.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2023.2": [
-          {
-            "nome_arquivo": "Univassouras 2023.2.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2023.2/Univassouras 2023.2.pdf",
-            "tipo": "prova_completa"
-          }
-        ],
-        "2025.1": [
-          {
-            "nome_arquivo": "Univassouras 2025.1.pdf",
-            "caminho_relativo": "provas/Privada/Univassouras/2025.1/Univassouras 2025.1.pdf",
-            "tipo": "prova_completa"
-          }
-        ]
-      }
-    },
     "Federal": {
       "UFPR": {
         "2007": [
@@ -3085,6 +2489,829 @@
           }
         ]
       }
-    }
+    },
+    "Privada": {
+      "IDOMED": {
+        "2021.2": [
+          {
+            "nome_arquivo": "IDOMED 2021.2.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2021.2/IDOMED 2021.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2024.2": [
+          {
+            "nome_arquivo": "IDOMED 2024.2 - Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2024.2/IDOMED 2024.2 - Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "IDOMED 2024.2.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2024.2/IDOMED 2024.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2023.1": [
+          {
+            "nome_arquivo": "IDOMED 2023.1 - Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2023.1/IDOMED 2023.1 - Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "IDOMED 2023.1.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2023.1/IDOMED 2023.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2024.1": [
+          {
+            "nome_arquivo": "IDOMED 2024.1 - Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2024.1/IDOMED 2024.1 - Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "IDOMED 2024.1.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2024.1/IDOMED 2024.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2020.2": [
+          {
+            "nome_arquivo": "IDOMED 2020.2.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2020.2/IDOMED 2020.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2023.2 (Vest)": [
+          {
+            "nome_arquivo": "IDOMED 2023.2 (Vest) - Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2023.2 (Vest)/IDOMED 2023.2 (Vest) - Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "IDOMED 2023.2 (Vest).pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2023.2 (Vest)/IDOMED 2023.2 (Vest).pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2022.2": [
+          {
+            "nome_arquivo": "IDOMED 2022.2.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2022.2/IDOMED 2022.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2023.2 (Rio e Famejipa)": [
+          {
+            "nome_arquivo": "IDOMED 2023.2 (Rio e Famejipa).pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2023.2 (Rio e Famejipa)/IDOMED 2023.2 (Rio e Famejipa).pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2022.1": [
+          {
+            "nome_arquivo": "IDOMED 2022.1.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2022.1/IDOMED 2022.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2021.1": [
+          {
+            "nome_arquivo": "IDOMED 2021.1.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2021.1/IDOMED 2021.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2024.2 (2º Edital)": [
+          {
+            "nome_arquivo": "IDOMED 2024.2 (2º Edital) - Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2024.2 (2º Edital)/IDOMED 2024.2 (2º Edital) - Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "IDOMED 2024.2 (2º Edital).pdf",
+            "caminho_relativo": "provas/Privada/IDOMED/2024.2 (2º Edital)/IDOMED 2024.2 (2º Edital).pdf",
+            "tipo": "prova_completa"
+          }
+        ]
+      },
+      "ACAFE": {
+        "2007 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2007 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2007 Verão/ACAFE 2007 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2013 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2013 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2013 Verão/ACAFE 2013 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2013 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2013 Verão/ACAFE 2013 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2012 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2012 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2012 Verão/ACAFE 2012 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2012 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2012 Verão/ACAFE 2012 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2011 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2011 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2011 Inverno/ACAFE 2011 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2007 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2007 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2007 Inverno/ACAFE 2007 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2014 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2014 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2014 Verão/ACAFE 2014 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2014 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2014 Verão/ACAFE 2014 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2014 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2014 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2014 Inverno/ACAFE 2014 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2012 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2012 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2012 Inverno/ACAFE 2012 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2012 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2012 Inverno/ACAFE 2012 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2009 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2009 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2009 Inverno/ACAFE 2009 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2017 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2017 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2017 Verão/ACAFE 2017 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2017 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2017 Verão/ACAFE 2017 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2015 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2015 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2015 Verão/ACAFE 2015 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2018 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2018 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2018 Verão/ACAFE 2018 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2018 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2018 Verão/ACAFE 2018 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2019 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2019 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2019 Inverno/ACAFE 2019 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2019 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2019 Inverno/ACAFE 2019 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2016 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2016 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2016 Inverno/ACAFE 2016 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2016 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2016 Inverno/ACAFE 2016 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2016 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2016 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2016 Verão/ACAFE 2016 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2016 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2016 Verão/ACAFE 2016 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2017 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2017 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2017 Inverno/ACAFE 2017 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2017 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2017 Inverno/ACAFE 2017 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2019 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2019 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2019 Verão/ACAFE 2019 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2019 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2019 Verão/ACAFE 2019 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2015 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2015 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2015 Inverno/ACAFE 2015 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2015 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2015 Inverno/ACAFE 2015 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2018 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2018 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2018 Inverno/ACAFE 2018 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2018 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2018 Inverno/ACAFE 2018 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2022 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2022 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2022 Verão/ACAFE 2022 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2022 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2022 Verão/ACAFE 2022 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2024 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2024 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2024 Verão/ACAFE 2024 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2024 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2024 Verão/ACAFE 2024 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2021 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2021 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2021 Inverno/ACAFE 2021 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2021 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2021 Inverno/ACAFE 2021 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2025 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2025 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2025 Verão/ACAFE 2025 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2025 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2025 Verão/ACAFE 2025 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2020 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2020 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2020 Verão/ACAFE 2020 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2020 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2020 Verão/ACAFE 2020 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2022 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2022 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2022 Inverno/ACAFE 2022 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2022 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2022 Inverno/ACAFE 2022 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2021 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2021 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2021 Verão/ACAFE 2021 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2021 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2021 Verão/ACAFE 2021 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2023 Verão": [
+          {
+            "nome_arquivo": "ACAFE 2023 Medicina Verão Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2023 Verão/ACAFE 2023 Medicina Verão Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2023 Medicina Verão.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2023 Verão/ACAFE 2023 Medicina Verão.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2023 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2023 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2023 Inverno/ACAFE 2023 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2023 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2023 Inverno/ACAFE 2023 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2024 Inverno": [
+          {
+            "nome_arquivo": "ACAFE 2024 Medicina Inverno Gabarito.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2024 Inverno/ACAFE 2024 Medicina Inverno Gabarito.pdf",
+            "tipo": "prova_completa"
+          },
+          {
+            "nome_arquivo": "ACAFE 2024 Medicina Inverno.pdf",
+            "caminho_relativo": "provas/Privada/ACAFE/2024 Inverno/ACAFE 2024 Medicina Inverno.pdf",
+            "tipo": "prova_completa"
+          }
+        ]
+      },
+      "Univassouras": {
+        "2016.1": [
+          {
+            "nome_arquivo": "Univassouras 2016.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2016.1/Univassouras 2016.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2015.2": [
+          {
+            "nome_arquivo": "Univassouras 2015.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2015.2/Univassouras 2015.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2014.1": [
+          {
+            "nome_arquivo": "Univassouras 2014.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2014.1/Univassouras 2014.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2014.2": [
+          {
+            "nome_arquivo": "Univassouras 2014.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2014.2/Univassouras 2014.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2013.2": [
+          {
+            "nome_arquivo": "Univassouras 2013.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2013.2/Univassouras 2013.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2016.2": [
+          {
+            "nome_arquivo": "Univassouras 2016.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2016.2/Univassouras 2016.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2012.2": [
+          {
+            "nome_arquivo": "Univassouras 2012.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2012.2/Univassouras 2012.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2017.1": [
+          {
+            "nome_arquivo": "Univassouras 2017.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2017.1/Univassouras 2017.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2015.1": [
+          {
+            "nome_arquivo": "Univassouras 2015.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2015.1/Univassouras 2015.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2018.2": [
+          {
+            "nome_arquivo": "Univassouras 2018.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2018.2/Univassouras 2018.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2021.1": [
+          {
+            "nome_arquivo": "Univassouras 2021.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2021.1/Univassouras 2021.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2018.1": [
+          {
+            "nome_arquivo": "Univassouras 2018.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2018.1/Univassouras 2018.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2019.1": [
+          {
+            "nome_arquivo": "Univassouras 2019.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2019.1/Univassouras 2019.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2022.1": [
+          {
+            "nome_arquivo": "Univassouras 2022.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2022.1/Univassouras 2022.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2020.2": [
+          {
+            "nome_arquivo": "Univassouras 2020.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2020.2/Univassouras 2020.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2021.2": [
+          {
+            "nome_arquivo": "Univassouras 2021.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2021.2/Univassouras 2021.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2017.2": [
+          {
+            "nome_arquivo": "Univassouras 2017.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2017.2/Univassouras 2017.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2019.2 2º Edital": [
+          {
+            "nome_arquivo": "Univassouras 2019.2 2º Edital.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2019.2 2º Edital/Univassouras 2019.2 2º Edital.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2019.2 1º Edital": [
+          {
+            "nome_arquivo": "Univassouras 2019.2 1º Edital.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2019.2 1º Edital/Univassouras 2019.2 1º Edital.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2024.1": [
+          {
+            "nome_arquivo": "Univassouras 2024.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2024.1/Univassouras 2024.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2023.1": [
+          {
+            "nome_arquivo": "Univassouras 2023.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2023.1/Univassouras 2023.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2022.2": [
+          {
+            "nome_arquivo": "Univassouras 2022.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2022.2/Univassouras 2022.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2023.2": [
+          {
+            "nome_arquivo": "Univassouras 2023.2.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2023.2/Univassouras 2023.2.pdf",
+            "tipo": "prova_completa"
+          }
+        ],
+        "2025.1": [
+          {
+            "nome_arquivo": "Univassouras 2025.1.pdf",
+            "caminho_relativo": "provas/Privada/Univassouras/2025.1/Univassouras 2025.1.pdf",
+            "tipo": "prova_completa"
+          }
+        ]
+      }
+    },
+    "Questões Sugeridas": [
+      {
+        "nome_arquivo": "Questões de Física e Química – Aulão ao vivo – 09_09_2020.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões de Física e Química – Aulão ao vivo – 09_09_2020.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "700 questões de física comentadas.pdf",
+        "caminho_relativo": "questoes_sugeridas/700 questões de física comentadas.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Guia ENEM - Exercícios de Geopolítica (Ciências Humanas).pdf",
+        "caminho_relativo": "questoes_sugeridas/Guia ENEM - Exercícios de Geopolítica (Ciências Humanas).pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Enem por habilidades.pdf",
+        "caminho_relativo": "questoes_sugeridas/Enem por habilidades.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "2350 questões comentadas das últimas edições do Enem.pdf",
+        "caminho_relativo": "questoes_sugeridas/2350 questões comentadas das últimas edições do Enem.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "2013-2015 (questões e gabarito F).pdf",
+        "caminho_relativo": "questoes_sugeridas/2013-2015 (questões e gabarito F).pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "2000-2013 (resoluções M).pdf",
+        "caminho_relativo": "questoes_sugeridas/2000-2013 (resoluções M).pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Simulado Semanal de Inglês - Rumo ao ITA.pdf",
+        "caminho_relativo": "questoes_sugeridas/Simulado Semanal de Inglês - Rumo ao ITA.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "1600 Questões de Inglês para Concursos Militares.pdf",
+        "caminho_relativo": "questoes_sugeridas/1600 Questões de Inglês para Concursos Militares.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "1500 Questões de Inglês para Concursos Militares.pdf",
+        "caminho_relativo": "questoes_sugeridas/1500 Questões de Inglês para Concursos Militares.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "1.500 QUESTÕES COMENTADAS DE PORTUGUÊS.pdf",
+        "caminho_relativo": "questoes_sugeridas/1.500 QUESTÕES COMENTADAS DE PORTUGUÊS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "900 Questões Gramática Comentada.pdf",
+        "caminho_relativo": "questoes_sugeridas/900 Questões Gramática Comentada.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "800 questões Interpretação de Textos.pdf",
+        "caminho_relativo": "questoes_sugeridas/800 questões Interpretação de Textos.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "500 Questões de Matemática Comentadas de Diversos Concursos.pdf",
+        "caminho_relativo": "questoes_sugeridas/500 Questões de Matemática Comentadas de Diversos Concursos.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "ENEM ( BANCO DE QUESTÕES).pdf",
+        "caminho_relativo": "questoes_sugeridas/ENEM ( BANCO DE QUESTÕES).pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Enem - 400 questões de Física Resolvidas e Comentadas.pdf",
+        "caminho_relativo": "questoes_sugeridas/Enem - 400 questões de Física Resolvidas e Comentadas.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "QUESTÕES DO ENEM - POLIEDRO.pdf",
+        "caminho_relativo": "questoes_sugeridas/QUESTÕES DO ENEM - POLIEDRO.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "1000 questões separadas por áreas.pdf",
+        "caminho_relativo": "questoes_sugeridas/1000 questões separadas por áreas.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "QQUIM.pdf",
+        "caminho_relativo": "questoes_sugeridas/QQUIM.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Português - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Português - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Química - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Química - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Química - TENHO PROVA AMANHÃ.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Química - TENHO PROVA AMANHÃ.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Matemática - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Matemática - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Português - TENHO PROVA AMANHÃ.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Português - TENHO PROVA AMANHÃ.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto -  História - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto -  História - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Geografia - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Geografia - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Matemática - TENHO PROVA AMANHÃ.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Matemática - TENHO PROVA AMANHÃ.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "2300 questões comentadas do ENEM.pdf",
+        "caminho_relativo": "questoes_sugeridas/2300 questões comentadas do ENEM.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "BIO.pdf",
+        "caminho_relativo": "questoes_sugeridas/BIO.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Filosofia e Sociologia - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Filosofia e Sociologia - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Física - TENHO PROVA AMANHÃ.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Física - TENHO PROVA AMANHÃ.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto -  Física - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto -  Física - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - História - TENHO PROVA AMANHÃ.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - História - TENHO PROVA AMANHÃ.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Geografia - TENHO PROVA AMANHÃ.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Geografia - TENHO PROVA AMANHÃ.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Biologia - TENHO PROVA AMANHÃ.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Biologia - TENHO PROVA AMANHÃ.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões por Assunto - Biologia - GRUPO EXATAS.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões por Assunto - Biologia - GRUPO EXATAS.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "182 Questões de Química para o Enem.pdf",
+        "caminho_relativo": "questoes_sugeridas/182 Questões de Química para o Enem.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "400 questões de Física Resolvidas e Comentadas.pdf",
+        "caminho_relativo": "questoes_sugeridas/400 questões de Física Resolvidas e Comentadas.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "210 Questões Comentadas de Matemática Básica.pdf",
+        "caminho_relativo": "questoes_sugeridas/210 Questões Comentadas de Matemática Básica.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões militares de Geografia do Brasil.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões militares de Geografia do Brasil.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões de Inglês para concursos militares.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões de Inglês para concursos militares.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões de Português para concursos militares.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões de Português para concursos militares.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Questões militares de História do Brasil.pdf",
+        "caminho_relativo": "questoes_sugeridas/Questões militares de História do Brasil.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "ESP.pdf",
+        "caminho_relativo": "questoes_sugeridas/ESP.pdf",
+        "tipo": "questoes_por_assunto"
+      },
+      {
+        "nome_arquivo": "Apostila 1.pdf",
+        "caminho_relativo": "questoes_sugeridas/Apostila 1.pdf",
+        "tipo": "questoes_por_assunto"
+      }
+    ]
   }
 }
